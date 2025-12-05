@@ -10,7 +10,8 @@ This repository documents patterns, designs, and approaches I use to automate **
 The focus is on:
 - Reducing manual operational workload
 - Improving consistency and repeatability of security controls
-- Enabling scale for **CyberArk**, **BeyondTrust**, **CA PAM**, and related PAM platforms
+- Enabling scale for **CyberArk**, **BeyondTrust**, and related PAM platforms
+- Service Account lifecycle management
 
 > Note: This repo is intentionally **documentation-focused**.  
 
