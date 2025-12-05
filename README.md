@@ -1,6 +1,3 @@
-# pam-automation-framework
-This repository documents patterns, designs, and approaches I use to automate **Privileged Access Management (PAM)** controls across enterprise environments.
-
 <h1 align="center">PAM Automation Framework</h1>
 <h3 align="center">Designing and Automating Privileged Access Controls at Enterprise Scale</h3>
 
@@ -16,7 +13,6 @@ The focus is on:
 - Enabling scale for **CyberArk**, **BeyondTrust**, **CA PAM**, and related PAM platforms
 
 > Note: This repo is intentionally **documentation-focused**.  
-> Actual production scripts and confidential content remain private.
 
 ---
 
@@ -30,7 +26,7 @@ The focus is on:
 
 ---
 
-### 🧱 Suggested Structure
+### 🧱 Structure
 
 ```bash
 pam-automation-framework/
